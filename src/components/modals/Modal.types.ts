@@ -1,0 +1,10 @@
+export type ModalAnimation =
+    | "fade"
+    | "scale"
+    | "slideTop"
+    | "slideBottom"
+    | "slideLeft"
+    | "slideRight"
+    | "rotateScale"
+    |   "flip"
+    | "blur"

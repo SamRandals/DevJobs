@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root{
+    overflow-x: hidden;
+
+    background: #07172A;
+
+   
+
+}
+
+
+@theme{
+    /* Colors base */
+
+    --color-dev:#07172A;
+}
